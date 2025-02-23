@@ -17,3 +17,9 @@ Link: [Google Colab](https://colab.research.google.com/drive/1JnoVEYct4jdN6jZdkO
 3 - Avaliation Metrics
 
 Link: [Google Colab](https://colab.research.google.com/drive/1Q-j-ao5SlfZj6G28aSkjBsadD8rkw0pO?usp=sharing)
+
+4 - Making a Dataset to Train an YoLO Network
+
+Dataset: Own authorship dataset label and configuration for YoLOv3, located in this repository
+
+Link: [Google Colab](https://colab.research.google.com/drive/1RJvJQK1Thf8FLLa-MZ7CT8YCesuEllg7?usp=sharing)
