@@ -13,3 +13,7 @@ Repository: [GitHub](https://github.com/Ikirior/transfer_learning_exercise)
 2 - Dimensional Reduction of Images for Neural Networks
 
 Link: [Google Colab](https://colab.research.google.com/drive/1JnoVEYct4jdN6jZdkOJfFSDnMVBtfdTp?usp=sharing)
+
+3 - Avaliation Metrics
+
+Link: [Google Colab](https://colab.research.google.com/drive/1Q-j-ao5SlfZj6G28aSkjBsadD8rkw0pO?usp=sharing)
