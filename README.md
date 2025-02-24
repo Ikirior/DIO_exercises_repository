@@ -28,7 +28,9 @@ Link: [Google Colab](https://colab.research.google.com/drive/1RJvJQK1Thf8FLLa-MZ
 
 Link: [Google Colab](https://colab.research.google.com/drive/1rjAxhV9Gqer-HbrGAQWNdETlfu-kWLS9?usp=sharing)
 
-6 -
+6 - Image Similarity Recomendation System
+
+Link: [Google Colab](https://colab.research.google.com/drive/17liAXnA1BTfR1UXpATc1ESOuIgPfeNRk?usp=sharing)
 
 7 - NLP Assistant using gTTS amd SpeechRecognition
 
